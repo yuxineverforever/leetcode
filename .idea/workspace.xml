@@ -2,12 +2,12 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="leetcode" targetName="199-Binary-Tree-Right-Side-View" />
       <config projectName="leetcode" targetName="314-Binary-Tree-Vertical-Order-Traversal" />
+      <config projectName="leetcode" targetName="124-Binary-Tree-Maximum-Path.cpp" />
       <config projectName="leetcode" targetName="398-Random-Pick-Index" />
       <config projectName="leetcode" targetName="1570-Dot-Product-of-Two-Sparse-Vectors" />
+      <config projectName="leetcode" targetName="199-Binary-Tree-Right-Side-View" />
       <config projectName="leetcode" targetName="249-grouped-shift-string" />
-      <config projectName="leetcode" targetName="124-Binary-Tree-Maximum-Path.cpp" />
       <config projectName="leetcode" targetName="451-Sort-Characters-By-Frequency" />
     </generated>
   </component>
@@ -18,108 +18,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27a9d7da-dd8b-4c4f-b352-b4ef673ee86f" name="Default Changelist" comment=")">
-      <change afterPath="$PROJECT_DIR$/1570-Dot-Product-of-Two-Sparse-Vectors.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/158-Read-N-Characters-Given-Read4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/199-Binary-Tree-Right-Side-View.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/211-Design-Add-And-Search-Word.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-Kth-Largest-Element-in-an-Array.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/238-Product-of-Array-Except-Self.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/282-Expression-Add-Operators.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/314-Binary-Tree-Vertical-Order-Traversal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/339-Nested-List-Weight-Sum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/348-Design-Tic-Tac-Toe.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/392-Is-Subsequence.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/398-Random-Pick-Index.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/438-Find-All-Anagrams-in-a-String.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/451-Sort-Characters-By-Frequency.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-Longest-Palindromic-Substring.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/56-Merge-Intervals.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/560-Subarray-Sum-Equals-K.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/938-range-sum-of-bst.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/124-Binary-Tree-Maximum-Path.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/398-Random-Pick-Index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/451-Sort-Characters-By-Frequency" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/124-Binary-Tree-Maximum-Path.cpp.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/124-Binary-Tree-Maximum-Path.cpp.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/124-Binary-Tree-Maximum-Path.cpp.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/124-Binary-Tree-Maximum-Path.cpp.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/124-Binary-Tree-Maximum-Path.cpp.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/124-Binary-Tree-Maximum-Path.cpp.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1570-Dot-Product-of-Two-Sparse-Vectors.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1570-Dot-Product-of-Two-Sparse-Vectors.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1570-Dot-Product-of-Two-Sparse-Vectors.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1570-Dot-Product-of-Two-Sparse-Vectors.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1570-Dot-Product-of-Two-Sparse-Vectors.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1570-Dot-Product-of-Two-Sparse-Vectors.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1570-Dot-Product-of-Two-Sparse-Vectors.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/199-Binary-Tree-Right-Side-View.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/199-Binary-Tree-Right-Side-View.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/199-Binary-Tree-Right-Side-View.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/199-Binary-Tree-Right-Side-View.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/199-Binary-Tree-Right-Side-View.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/199-Binary-Tree-Right-Side-View.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/199-Binary-Tree-Right-Side-View.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/249-grouped-shift-string.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/249-grouped-shift-string.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/249-grouped-shift-string.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/249-grouped-shift-string.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/249-grouped-shift-string.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/314-Binary-Tree-Vertical-Order-Traversal.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/314-Binary-Tree-Vertical-Order-Traversal.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/314-Binary-Tree-Vertical-Order-Traversal.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/314-Binary-Tree-Vertical-Order-Traversal.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/314-Binary-Tree-Vertical-Order-Traversal.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/314-Binary-Tree-Vertical-Order-Traversal.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/314-Binary-Tree-Vertical-Order-Traversal.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/398-Random-Pick-Index.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/451-Sort-Characters-By-Frequency.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/451-Sort-Characters-By-Frequency.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/leetcode.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-RegularExpressionMatch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/10-RegularExpressionMatch.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/124-Binary-Tree-Maximum-Path.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/124-Binary-Tree-Maximum-Path.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/227-Calculator2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/227-Calculator2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-Merge-K-Lists.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/23-Merge-K-Lists.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/236-lowestCommonAncestor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/236-lowestCommonAncestor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/435-Non-overlapping-Intervals.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/435-Non-overlapping-Intervals.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/249-grouped-shift-string.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/249-grouped-shift-string.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/398-Random-Pick-Index.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/249-grouped-shift-string.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/124-Binary-Tree-Maximum-Path.cpp.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/leetcode.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,15 +32,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/238-Product-of-Array-Except-Self.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/282-Expression-Add-Operators.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -210,16 +102,25 @@
         <entry file="file://$PROJECT_DIR$/480-sliding-window-median.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="58" lean-forward="true" selection-start-column="58" selection-end-column="58" />
+              <caret column="58" selection-start-column="58" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/523-continuous-subarray-sum.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="115" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/523-continuous-subarray-sum.cpp">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="115" />
+            <state relative-caret-position="190">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -272,6 +173,7 @@
         <option value="$PROJECT_DIR$/392-Is-Subsequence.cpp" />
         <option value="$PROJECT_DIR$/438-Find-All-Anagrams-in-a-String.cpp" />
         <option value="$PROJECT_DIR$/560-Subarray-Sum-Equals-K.cpp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -377,8 +279,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21855922" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21855922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -390,7 +293,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.96791446" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.542246" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" />
@@ -741,7 +644,7 @@
     <entry file="file://$PROJECT_DIR$/480-sliding-window-median.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="58" lean-forward="true" selection-start-column="58" selection-end-column="58" />
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -749,6 +652,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
