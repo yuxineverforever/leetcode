@@ -55,7 +55,8 @@ public:
 
         // dynamic programming
 
-        // f[i] = max(i<j && interval[j][1] < interval[i][0]) (f[j]+1)
+        // f[i] = m                a                    x (f[j]+1)
+        //        (i<j && interval[j][1] < interval[i][0])
 
         for (int i = 1;i < n; i++){
             for (int j = 0; j<i;j++){

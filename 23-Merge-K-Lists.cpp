@@ -13,12 +13,15 @@ public:
             for(auto elem : lists){
                 if(elem) pri_queue.push(elem);
             }
+
             // 可以使用哑节点/哨兵节点
             ListNode dummy(-1);
             ListNode* p = &dummy;
+
             // 开始出队
             while(!pri_queue.empty()){
-                ListNode* top = pri_queue.top(); pri_queue.pop();
+                ListNode* top = pri_queue.top();
+                pri_queue.pop();
                 p->next = top; p = top;
                 if(top->next) pri_queue.push(top->next);
             }
