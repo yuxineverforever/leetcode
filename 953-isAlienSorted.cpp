@@ -1,18 +1,51 @@
+/**
+ *
+ * First, construct an array storing the order of the dictionary.
+ * Then compare consecutive word directly.
+ *
+ */
 class Solution {
-public:
-    bool less(string& a, string& b, string& order) {
-        int len = min(a.size(), b.size());
-        for (int i = 0; i < len; i++) {
-            if (order.find(a[i]) < order.find(b[i])) return true;
-            else if (order.find(a[i]) > order.find(b[i])) return false;
+private:
+    int char2order[26];
+
+    bool IsLexi(const string& a, const string& b)
+    {
+        int n = min(a.size(), b.size());
+        for (int i = 0; i < n; ++i)
+        {
+            int ia = char2order[a[i]-'a'];
+            int ib = char2order[b[i]-'a'];
+            if (ia < ib)
+            {
+                return true;
+            }
+            else if (ia > ib)
+            {
+                return false;
+            }
         }
-        if (len == a.size()) return true;
-        else return false;
+
+        // 说明a长度不大于b,则为true
+        return n == a.size();
     }
+
+public:
     bool isAlienSorted(vector<string>& words, string order) {
-        for (int i = 0; i < words.size() - 1; i++) {
-            if (!less(words[i], words[i + 1], order)) return false;
+        memset(char2order, 0, sizeof(char2order));
+        for (int i = 0; i < order.size(); ++i)
+        {
+            char2order[order[i]-'a'] = i;
         }
+
+        // 遍历去比较是否满足
+        for (int i = 0; i < words.size()-1; ++i)
+        {
+            if (!IsLexi(words[i], words[i+1]))
+            {
+                return false;
+            }
+        }
+
         return true;
     }
 };

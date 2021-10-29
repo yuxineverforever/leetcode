@@ -10,3 +10,7 @@ add_executable(1570-Dot-Product-of-Two-Sparse-Vectors 1570-Dot-Product-of-Two-Sp
 add_executable(314-Binary-Tree-Vertical-Order-Traversal 314-Binary-Tree-Vertical-Order-Traversal.cpp)
 add_executable(398-Random-Pick-Index 398-Random-Pick-Index.cpp)
 add_executable(199-Binary-Tree-Right-Side-View 199-Binary-Tree-Right-Side-View.cpp)
+add_executable(560-Subarray-Sum-Equals-K 560-Subarray-Sum-Equals-K.cpp)
+add_executable(1249-Minimum-Remove-to-Make-Valid-Parentheses 1249-Minimum-Remove-to-Make-Valid-Parentheses.cpp)
+add_executable(1428-leftmost-column-with-at-least-a-one 1428-leftmost-column-with-at-least-a-one.cpp)
+add_executable(39-Combination-Sum.cpp 39-Combination-Sum.cpp)
