@@ -2,6 +2,7 @@
 // method 2: center expanding
 
 // This one is center expanding
+
 #include <iostream>
 #include <string>
 class Solution {

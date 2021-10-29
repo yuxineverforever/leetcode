@@ -1,3 +1,11 @@
+/**
+ * A basic calculator that can do +/-/(/)
+ *
+ *
+ * This solution can have space O(1) if you only need +/-.
+ *
+ */
+
 #include <iostream>
 #include <stack>
 using namespace std;
@@ -35,7 +43,6 @@ public:
 
 
 int main(){
-
     Solution s;
     std::cout << "res: " << s.calculate("1 - (100 - (99 + 1))") << std::endl;
     return 0;

@@ -3,7 +3,7 @@
 #include <vector>
 
 // I have implemented a lot of LRU algorithms.
-// This is probably the most efficient implmentation.
+// This is probably the most efficient implementation.
 // https://leetcode-cn.com/problems/lru-cache/solution/lruhuan-cun-ji-zhi-by-leetcode-solution/
 
 struct DLinkedNode {

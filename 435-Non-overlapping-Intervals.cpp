@@ -29,11 +29,6 @@ fi=max⁡j<i ∧ rj≤li{fj}+1f_i = \max_{j < i ~\wedge~ r_j \leq l_i} \{ f_j \}
 即我们枚举倒数第二个区间的编号 jjj，满足 j<ij < ij<i，并且第 jjj 个区间必须要与第 iii 个区间不重叠。由于我们已经按照左端点进行升序排序了，因此只要第 jjj 个区间的右端点 rjr_jrj​ 没有越过第 iii 个区间的左端点 lil_ili​，即 rj≤lir_j \leq l_irj​≤li​，那么第 jjj 个区间就与第 iii 个区间不重叠。我们在所有满足要求的 jjj 中，选择 fjf_jfj​ 最大的那一个进行状态转移，如果找不到满足要求的区间，那么状态转移方程中 min⁡\minmin 这一项就为 000，fif_ifi​ 就为 111。
 
 最终的答案即为所有 fif_ifi​ 中的最大值。
-
-作者：LeetCode-Solution
-链接：https://leetcode-cn.com/problems/non-overlapping-intervals/solution/wu-zhong-die-qu-jian-by-leetcode-solutio-cpsb/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
  *
  *
  */
