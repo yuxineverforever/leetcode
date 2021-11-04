@@ -8,7 +8,7 @@ add_executable(124-Binary-Tree-Maximum-Path.cpp 124-Binary-Tree-Maximum-Path.cpp
 add_executable(451-Sort-Characters-By-Frequency 451-Sort-Characters-By-Frequency.cpp)
 add_executable(1570-Dot-Product-of-Two-Sparse-Vectors 1570-Dot-Product-of-Two-Sparse-Vectors.cpp)
 add_executable(314-Binary-Tree-Vertical-Order-Traversal 314-Binary-Tree-Vertical-Order-Traversal.cpp)
-add_executable(398-Random-Pick-Index 398-Random-Pick-Index.cpp)
+add_executable(398-Random-Pick-Index 398-Equally-Random-Pick-Index-of-Target.cpp)
 add_executable(199-Binary-Tree-Right-Side-View 199-Binary-Tree-Right-Side-View.cpp)
 add_executable(560-Subarray-Sum-Equals-K 560-Subarray-Sum-Equals-K.cpp)
 add_executable(1249-Minimum-Remove-to-Make-Valid-Parentheses 1249-Minimum-Remove-to-Make-Valid-Parentheses.cpp)
@@ -16,3 +16,4 @@ add_executable(1428-leftmost-column-with-at-least-a-one 1428-leftmost-column-wit
 add_executable(39-Combination-Sum.cpp 39-Combination-Sum.cpp)
 add_executable(140-Word-Break-2.cpp 140-Word-Break-2.cpp)
 add_executable(127-Word-Ladder.cpp 127-Word-Ladder.cpp)
+add_executable(498-Diagonal-Traverse.cpp 498-Diagonal-Traverse.cpp)

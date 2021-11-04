@@ -1,7 +1,15 @@
+/**
+ *
+ * Q: Given an integer array nums with possible duplicates,
+ * randomly output the index of a given target number.
+ * You can assume that the given target number must exist in the array.
+ *
+ * A:
+ *
+ */
 #include <iostream>
 #include <vector>
 #include <unordered_map>
-
 
 class Solution2 {
 public:
