@@ -1,3 +1,13 @@
+
+/**
+ * Q: You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
+
+Merge all the linked-lists into one sorted linked-list and return it.
+ *
+ * A: push the first element of each linked list into a max heap.
+ * pop from that max heap everytime.
+ *
+ */
 class Solution {
 public:
     // 小根堆的回调函数

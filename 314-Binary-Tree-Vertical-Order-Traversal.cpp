@@ -1,4 +1,12 @@
-/*
+/**
+ *
+ * Given the root of a binary tree, return the vertical order traversal of its nodes' values. (i.e., from top to bottom, column by column).
+ * If two nodes are in the same row and column, the order should be from left to right.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
  *  Input: root = [3,9,20,null,null,15,7]
  *  Output: [[9],[3,15],[20],[7]]
  *

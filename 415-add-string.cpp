@@ -1,4 +1,12 @@
-/**
+/**Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string.
+
+You must solve the problem without using any built-in library for handling large integers (such as BigInteger). You must also not convert the inputs to integers directly.
+
+
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/add-strings
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  * Q: add two string, return a string
  * A: simulation.
  */

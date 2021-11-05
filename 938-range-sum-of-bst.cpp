@@ -1,3 +1,14 @@
+/**
+ *
+ * Given the root node of a binary search tree and two integers low and high, return the sum of values of all nodes with a value in the inclusive range [low, high].
+
+
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/range-sum-of-bst
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ */
 class Solution {
 public:
     int rangeSumBST(TreeNode *root, int low, int high) {

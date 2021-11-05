@@ -1,4 +1,24 @@
+/**
+ *
+ * Q:Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
 
+Implement the LRUCache class:
+
+    LRUCache(int capacity) Initialize the LRU cache with positive size capacity.
+    int get(int key) Return the value of the key if the key exists, otherwise return -1.
+    void put(int key, int value) Update the value of the key if the key exists. Otherwise, add the key-value pair to the cache. If the number of keys exceeds the capacity from this operation, evict the least recently used key.
+
+The functions get and put must each run in O(1) average time complexity.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/lru-cache
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
+
+ * A: use unordered_map as the cache
+ *   use double linked list for update.
+ *
+ */
 #include <iostream>
 #include <vector>
 

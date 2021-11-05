@@ -1,3 +1,22 @@
+/**
+ * Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where:
+    '.' Matches any single character.
+    '*' Matches zero or more of the preceding element.
+The matching should cover the entire input string (not partial).
+
+Example:
+ *Input: s = "ab", p = ".*"
+Output: true
+Explanation: ".*" means "zero or more (*) of any character (.)".
+
+
+ * A: dynamic programming. hard to explain here.
+ * https://leetcode-cn.com/problems/regular-expression-matching/solution/shou-hui-tu-jie-wo-tai-nan-liao-by-hyj8/
+ *
+ * @param s
+ * @param p
+ * @return
+ */
 bool isMatch(string s, string p) {
   s = " " + s;
   p = " " + p;

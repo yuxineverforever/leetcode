@@ -1,3 +1,15 @@
+/**
+ * Given an m x n integers matrix, return the length of the longest increasing path in matrix.
+
+From each cell, you can either move in four directions: left, right, up, or down. You may not move diagonally or move outside the boundary (i.e., wrap-around is not allowed).
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ *
+ */
+
 class Solution {
 public:
 

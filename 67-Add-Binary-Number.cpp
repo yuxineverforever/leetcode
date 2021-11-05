@@ -1,5 +1,7 @@
 /**
-    Given two binary strings a and b, return their sum as a binary string.
+   Q: Given two binary strings a and b, return their sum as a binary string.
+
+   A: add from end to the beginning.
  **/
 
 class Solution {

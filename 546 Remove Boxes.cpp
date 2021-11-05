@@ -1,3 +1,16 @@
+/**
+ * You are given several boxes with different colors represented by different positive numbers.
+
+You may experience several rounds to remove boxes until there is no box left. Each time you can choose some continuous boxes with the same color (i.e., composed of k boxes, k >= 1), remove them and get k * k points.
+
+Return the maximum points you can get.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/remove-boxes
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ *
+ */
 class Solution {
 public:
     int dp(vector<vector<vector<int>>>& memo, vector<int>& right, vector<int>& boxes, int presame, int i, int r) {

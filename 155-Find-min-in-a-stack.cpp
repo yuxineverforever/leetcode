@@ -2,6 +2,7 @@
  * Q: Implement a stack supporting four operations: 1. push() 2. pop() 3. top() 4. getMin()
  *
  * A: store a pair <current element, min element> in stack.
+ https://leetcode-cn.com/problems/min-stack/
  */
 class MinStack {
 public:

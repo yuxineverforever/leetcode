@@ -1,5 +1,9 @@
 /**
- *
+ *Given a string num that contains only digits and an integer target, return all possibilities to insert the binary operators '+', '-', and/or '*' between the digits of num so that the resultant expression evaluates to the target value.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/expression-add-operators
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  * A little bit waste time. I will just skip this one.
  *
  */

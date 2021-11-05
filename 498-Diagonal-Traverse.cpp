@@ -3,6 +3,15 @@
 using namespace std;
 
 /**
+ *
+ * Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
+
+
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/diagonal-traverse
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
  * Q: Traverse an m*n matrix in the diagonal order and print all the elements out.
  *
  * A:

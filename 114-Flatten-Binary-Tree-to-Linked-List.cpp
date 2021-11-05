@@ -1,8 +1,12 @@
 /**
  * Q: flatten an BST into list. The order should be the same as pre-order traverse.
- * A: move　the right subtree to follow the most right node under the left subtree.
+ * Given the root of a binary tree, flatten the tree into a "linked list":
+ *  - The "linked list" should use the same TreeNode class where the right child pointer points to the next node in the list and the left child pointer is always null.
+ *  - The "linked list" should be in the same order as a pre-order traversal of the binary tree.
  *
+ * A: move　the right subtree to follow the most right node under the left subtree.
  * space : O(1)
+ *
  */
 class Solution {
 public:

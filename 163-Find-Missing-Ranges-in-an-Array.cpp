@@ -1,8 +1,8 @@
 /**
  * Q: Given a range [low, upper], cover all the numbers not appearing in the provided array nums./
  *
- *
  * A: just simple one time traversal.
+ https://leetcode-cn.com/problems/missing-ranges/
  */
 #include <iostream>
 #include <vector>

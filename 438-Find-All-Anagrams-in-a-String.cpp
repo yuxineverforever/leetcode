@@ -1,5 +1,14 @@
 
 /*
+ *
+ * Given two strings s and p, return an array of all the start indices of p's anagrams in s. You may return the answer in any order.
+
+An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase,
+ typically using all the original letters exactly once.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/find-all-anagrams-in-a-string
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  * sliding window + array
  *
  *

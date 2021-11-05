@@ -1,6 +1,11 @@
-/*
- * Given the head of a singly linked list and two integers left and right where left <= right,
+/**
+ * Q: Given the head of a singly linked list and two integers left and right where left <= right,
  * reverse the nodes of the list from position left to position right, and return the reversed list.
+ *
+ * A: simulating. cut the linked list into chunks.
+ *https://leetcode-cn.com/problems/reverse-linked-list-ii/solution/fan-zhuan-lian-biao-ii-by-leetcode-solut-teyq/
+ *
+ *
  */
 
 class Solution {

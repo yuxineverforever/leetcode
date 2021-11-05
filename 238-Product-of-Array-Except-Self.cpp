@@ -1,8 +1,17 @@
 /**
  *
+ * Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
+
+The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
+
+You must write an algorithm that runs in O(n) time and without using the division operation.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/product-of-array-except-self
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
  * 使用前缀乘积和后缀乘积进行两次遍历，避免除法；
  * 同时对位于第一位和最后一位的数字特殊处理即可。
- *
  *
  * */
 class Solution {

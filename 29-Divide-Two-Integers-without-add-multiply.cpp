@@ -1,3 +1,19 @@
+/***
+ * Q:Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.
+ *
+ *
+ *
+ * A:举个例子：11 除以 3 。
+首先11比3大，结果至少是1，
+ 然后我让3翻倍，就是6，
+ 发现11比3翻倍后还要大，那么结果就至少是2了，
+ 那我让这个6再翻倍，得12，11不比12大，
+ 差点让就让刚才的最小解2也翻倍得到4了。但是我知道最终结果肯定在2和4之间。
+ 也就是说2再加上某个数，这个数是多少呢？我让11减去刚才最后一次的结果6，剩下5，
+ 我们计算5是3的几倍，也就是除法，看，递归出现了。说得很乱，不严谨，大家看个大概，然后自己在纸上画一画，或者直接看我代码就好啦！
+ *
+ * 11/3 = 2+(11-2*3)/3 = 3
+ */
 class Solution {
 public:
     int divide(int dividend, int divisor) {

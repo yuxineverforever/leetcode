@@ -8,7 +8,7 @@
  * A: BFS is enough.
  * Easy. Almost the same as Binary Tree Vertical Order.
  *
- *
+ *https://leetcode-cn.com/problems/binary-tree-right-side-view/
  *
  **/
 

@@ -6,8 +6,22 @@
  *  For example, we can keep shifting "abc" to form the sequence: "abc" -> "bcd" -> ... -> "xyz".
  *  Given an array of strings strings, group all strings[i] that belong to the same shifting sequence.
  *  You may return the answer in any order.
- */
 
+
+We can shift a string by shifting each of its letters to its successive letter.
+
+For example, "abc" can be shifted to be "bcd".
+
+We can keep shifting the string to form a sequence.
+
+For example, we can keep shifting "abc" to form the sequence: "abc" -> "bcd" -> ... -> "xyz".
+
+Given an array of strings strings, group all strings[i] that belong to the same shifting sequence. You may return the answer in any order.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/group-shifted-strings
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+*/
 /**
  **  turn every string into the string begin with 'a';
  **/

@@ -4,7 +4,7 @@
  * Given an integer n, return the number of distinct solutions to the n-queens puzzle.
  *
  * A: use bitmap here.
- *
+ * https://leetcode-cn.com/problems/n-queens-ii/
  *
  */
 class Solution {

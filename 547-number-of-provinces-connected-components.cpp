@@ -3,7 +3,7 @@
  * a component is called a province.
  *
  * A: BFS is all you need.
- *
+ *https://leetcode-cn.com/problems/number-of-provinces/
  *
  *
  */

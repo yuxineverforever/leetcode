@@ -1,5 +1,16 @@
 #include <iostream>
 #include <string>
+/**
+ * Q:
+ * A valid number can be split up into these components (in order):
+    - A decimal number or an integer.
+    - (Optional) An 'e' or 'E', followed by an integer.
+ *
+ * A: simulating
+ *
+ * https://leetcode-cn.com/problems/valid-number/
+ *
+ */
 /*
    A valid number can be split up into these components (in order):
     - A [[ decimal number ]] or an integer.

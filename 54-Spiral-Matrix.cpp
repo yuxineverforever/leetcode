@@ -1,3 +1,9 @@
+/***
+ * Q: Given an m x n matrix, return all elements of the matrix in spiral order.
+ *
+ * A: simulating.
+ * https://leetcode-cn.com/problems/spiral-matrix/
+ */
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {

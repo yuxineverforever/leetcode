@@ -1,5 +1,11 @@
 /**
- *Q:Given a matrix of 'x' and 'o'. Flip all the 'o' if not connected to the 'o' in the border.
+ *Q:Given an m x n matrix board containing 'X' and 'O', capture all regions that are 4-directionally surrounded by 'X'.
+
+A region is captured by flipping all 'O's into 'X's in that surrounded region.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/surrounded-regions
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  *
  * A: BFS. all the visited 'o' will be marked as 'v'.
  */

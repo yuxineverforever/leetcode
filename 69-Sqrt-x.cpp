@@ -1,12 +1,15 @@
 /**
-Given a non-negative integer x, compute and return the square root of x.
+Q: Given a non-negative integer x, compute and return the square root of x.
 
 Since the return type is an integer, the decimal digits are truncated, and only the integer part of the result is returned.
 
 Note: You are not allowed to use any built-in exponent function or operator, such as pow(x, 0.5) or x ** 0.5.
-**/
 
-//​=x1/2=(elnx)1/2=e21​lnx
+ A: 1. pocket calculator
+    2. binary search
+https://leetcode-cn.com/problems/sqrtx/solution/x-de-ping-fang-gen-by-leetcode-solution/
+**/
+// x^(1/2) = (e^(lnx))^(1/2) = e^(1/2lnx)
 class Solution {
 public:
     int mySqrt(int x) {
@@ -38,7 +41,7 @@ public:
     }
 };
 
-//ans 是满足 k2≤xk^2 \leq xk2≤x 的最大 kkk 值，
+//ans 是满足 k^2 ≤ x 的最大 k 值，
 class Solution {
 public:
     int mySqrt(int x) {

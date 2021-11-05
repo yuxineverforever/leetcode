@@ -1,3 +1,19 @@
+/**
+ *
+ * You are given an array of intervals, where intervals[i] = [starti, endi] and each starti is unique.
+
+The right interval for an interval i is an interval j such that startj >= endi and startj is minimized.
+
+Return an array of right interval indices for each interval i. If no right interval exists for interval i, then put -1 at index i.
+
+
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/find-right-interval
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ *
+ */
 #include <iostream>
 #include <vector>
 #include <algorithm>

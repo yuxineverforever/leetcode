@@ -1,4 +1,14 @@
 /**
+ * Given a string num which represents an integer, return true if num is a strobogrammatic number.
+
+A strobogrammatic number is a number that looks the same when rotated 180 degrees (looked at upside down).
+
+
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/strobogrammatic-number
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
  * Q: look at a string from a 180 degree rotation.
  *
  * A: 当数字中有2，3，4，5，7的时候，直接返回false;

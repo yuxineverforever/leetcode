@@ -1,3 +1,10 @@
+/**
+ * Q: Given a string s, return the longest palindromic substring in s.
+ *
+ * A: I love the method called center expanding.
+ * "s" is a palindromic string
+ * "ss" is also a palindromic string
+ */
 // method 1: dynamic programming
 // method 2: center expanding
 

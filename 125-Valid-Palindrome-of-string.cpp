@@ -5,6 +5,8 @@
  *
  * A: use two pointers pointing to begin and end separately.
  * Scan the string. Filter out those "," " " ":" characters.
+ *
+ * https://leetcode-cn.com/problems/valid-palindrome/
  */
 class Solution {
 public:

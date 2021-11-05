@@ -1,4 +1,29 @@
+/**
+ * A string can be abbreviated by replacing any number of non-adjacent, non-empty substrings with their lengths. The lengths should not have leading zeros.
 
+For example, a string such as "substitution" could be abbreviated as (but not limited to):
+
+    "s10n" ("s ubstitutio n")
+    "sub4u4" ("sub stit u tion")
+    "12" ("substitution")
+    "su3i1u2on" ("su bst i t u ti on")
+    "substitution" (no substrings replaced)
+
+The following are not valid abbreviations:
+
+    "s55n" ("s ubsti tutio n", the replaced substrings are adjacent)
+    "s010n" (has leading zeros)
+    "s0ubstitution" (replaces an empty substring)
+
+Given a string word and an abbreviation abbr, return whether the string matches the given abbreviation.
+
+A substring is a contiguous non-empty sequence of characters within a string.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/valid-word-abbreviation
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ */
 class Solution {
 public:
     bool validWordAbbreviation(string w, string a) {

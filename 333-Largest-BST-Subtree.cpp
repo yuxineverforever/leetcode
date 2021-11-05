@@ -1,4 +1,18 @@
 /**
+ *
+ * Given the root of a binary tree, find the largest subtree, which is also a Binary Search Tree (BST), where the largest means subtree has the largest number of nodes.
+
+A Binary Search Tree (BST) is a tree in which all the nodes follow the below-mentioned properties:
+
+    The left subtree values are less than the value of their parent (root) node's value.
+    The right subtree values are greater than the value of their parent (root) node's value.
+
+Note: A subtree must include all of its descendants.
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/largest-bst-subtree
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
  * Q: given a BST, find the largest BST subtree.
  *
  * A: DFS.

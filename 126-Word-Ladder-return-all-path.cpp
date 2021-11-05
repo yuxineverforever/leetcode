@@ -11,12 +11,20 @@
 class Solution {
 public:
     vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
+
         vector<vector<string>> res;
-        unordered_set<string> dict(wordList.begin(), wordList.end()), head{beginWord}, tail{endWord};
+
+        unordered_set<string> dict (wordList.begin(), wordList.end());
+        unordered_set<string> head {beginWord};
+        unordered_set<string> tail {endWord};
+
         if(!dict.count(endWord)) return res;
         dict.erase(beginWord), dict.erase(endWord);
+
         unordered_map<string, vector<string>> next;
+
         bool reversed = false, found = false; // 一些初始化准备
+
         while (!head.empty()) {
             unordered_set<string> temp; // 保存已转化过的 string
             for (const auto &w : head) { // 层 遍历
@@ -38,8 +46,10 @@ public:
                 }
             }
             if (found) break; // 退出
-            for (const auto &w : temp) dict.erase(w); // 删除已转换的 string
-            if (temp.size() <= tail.size()) head = temp; // 根据左右层节点大小来切换遍历方向
+            for (const auto &w : temp)
+                dict.erase(w); // 删除已转换的 string
+            if (temp.size() <= tail.size())
+                head = temp; // 根据左右层节点大小来切换遍历方向
             else {
                 reversed = !reversed;
                 head = tail;
