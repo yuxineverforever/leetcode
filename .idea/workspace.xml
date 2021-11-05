@@ -2,20 +2,20 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="leetcode" targetName="314-Binary-Tree-Vertical-Order-Traversal" />
-      <config projectName="leetcode" targetName="398-Random-Pick-Index" />
+      <config projectName="leetcode" targetName="560-Subarray-Sum-Equals-K" />
+      <config projectName="leetcode" targetName="140-Word-Break-2.cpp" />
+      <config projectName="leetcode" targetName="127-Word-Ladder.cpp" />
       <config projectName="leetcode" targetName="39-Combination-Sum.cpp" />
+      <config projectName="leetcode" targetName="314-Binary-Tree-Vertical-Order-Traversal" />
+      <config projectName="leetcode" targetName="1570-Dot-Product-of-Two-Sparse-Vectors" />
+      <config projectName="leetcode" targetName="451-Sort-Characters-By-Frequency" />
+      <config projectName="leetcode" targetName="498-Diagonal-Traverse.cpp" />
+      <config projectName="leetcode" targetName="398-Random-Pick-Index" />
       <config projectName="leetcode" targetName="199-Binary-Tree-Right-Side-View" />
       <config projectName="leetcode" targetName="249-grouped-shift-string" />
-      <config projectName="leetcode" targetName="127-Word-Ladder.cpp" />
-      <config projectName="leetcode" targetName="140-Word-Break-2.cpp" />
-      <config projectName="leetcode" targetName="498-Diagonal-Traverse.cpp" />
-      <config projectName="leetcode" targetName="124-Binary-Tree-Maximum-Path.cpp" />
-      <config projectName="leetcode" targetName="1570-Dot-Product-of-Two-Sparse-Vectors" />
-      <config projectName="leetcode" targetName="1428-leftmost-column-with-at-least-a-one" />
-      <config projectName="leetcode" targetName="560-Subarray-Sum-Equals-K" />
-      <config projectName="leetcode" targetName="451-Sort-Characters-By-Frequency" />
       <config projectName="leetcode" targetName="1249-Minimum-Remove-to-Make-Valid-Parentheses" />
+      <config projectName="leetcode" targetName="1428-leftmost-column-with-at-least-a-one" />
+      <config projectName="leetcode" targetName="124-Binary-Tree-Maximum-Path.cpp" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -25,19 +25,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27a9d7da-dd8b-4c4f-b352-b4ef673ee86f" name="Default Changelist" comment=")">
-      <change afterPath="$PROJECT_DIR$/485-Max-Consecutive-Ones.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/547-number-of-provinces-connected-components.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/621-Task-Scheduler.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/637-Average-of-Levels-in-Binary-Tree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/674-Longest-Continuous-Increasing-Subsequence.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/680-Valid-Palindrome-2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/778-Swim-in-grid-with-rain.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/785-Is-Graph-Bipartite.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1004-Max-Consecutive-Ones-with-fliping-0.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1029-Two-City-Scheduling-interview.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1123-Lowest-Common-Ancestor-of-Deepest-Leaves.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1197-Minimum-Knight-Moves.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1574-Shortest Subarray to be Removed to Make Array Sorted.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/824-Goat-Latin.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/919-Complete-Binary-Tree-Inserter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/921-Minimum-Add-to-Make-Parentheses()-Valid.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/940-Distinct-Subsequences-2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/958-Check-Completeness-of-a-Binary-Tree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/973-K-Closest-Points-to-(0,0).cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/977-Squares-of-a-Sorted-Array.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/986-Interval-List-Intersections.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/987-Vertical-Order-Traversal-of-a-Binary-Tree.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/398-Random-Pick-Index.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/398-Equally-Random-Pick-Index-of-Target.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/498-Diagonal-Traverse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/498-Diagonal-Traverse.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/528-Random-Pick-with-Weight.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/528-Random-Pick-with-Weight.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1004-Max-Consecutive-Ones-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1026-Maximum-Difference-Between-Node-and-Ancestor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/778-Swim-in-grid-with-rain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/778-Swim-in-grid-with-rain.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,91 +54,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/540-Single-Element-Appearance-in-a-Double-Element-Array.cpp">
+        <entry file="file://$PROJECT_DIR$/977-Squares-of-a-Sorted-Array.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="133">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/621-Task-Scheduler.cpp">
+        <entry file="file://$PROJECT_DIR$/986-Interval-List-Intersections.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            <state relative-caret-position="228">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/637-Average-of-Levels-in-Binary-Tree.cpp">
+        <entry file="file://$PROJECT_DIR$/987-Vertical-Order-Traversal-of-a-Binary-Tree.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/674-Longest-Continuous-Increasing-Subsequence.cpp">
+        <entry file="file://$PROJECT_DIR$/1004-Max-Consecutive-Ones-with-fliping-0.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="95">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/680-Valid-Palindrome-2.cpp">
+        <entry file="file://$PROJECT_DIR$/1026-Maximum-Difference-Between-Node-and-Ancestor.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="-407">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/778-Swim-in-grid-with-rain.cpp">
+        <entry file="file://$PROJECT_DIR$/1123-Lowest-Common-Ancestor-of-Deepest-Leaves.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+            <state relative-caret-position="-312">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1029-Two-City-Scheduling-interview.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1574-Shortest Subarray to be Removed to Make Array Sorted.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/785-Is-Graph-Bipartite.cpp">
+        <entry file="file://$PROJECT_DIR$/1197-Minimum-Knight-Moves.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="112">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/547-number-of-provinces-connected-components.cpp">
+        <entry file="file://$PROJECT_DIR$/314-Binary-Tree-Vertical-Order-Traversal.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/398-Equally-Random-Pick-Index-of-Target.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+            <state relative-caret-position="104">
+              <caret line="27" selection-start-line="27" selection-end-line="78" selection-end-column="2" />
+              <folding>
+                <element signature="e#568#587#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,6 +170,7 @@
       <find>random</find>
       <find>pick</find>
       <find>Palindrome</find>
+      <find>vertical</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -171,22 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/69-Sqrt-x.cpp" />
-        <option value="$PROJECT_DIR$/88-Merge-Sorted-Array.cpp" />
-        <option value="$PROJECT_DIR$/92-Reverse-Linked-List-2.cpp" />
-        <option value="$PROJECT_DIR$/154-Find-Minimum-in-Rotated-Sorted-Array-2.cpp" />
-        <option value="$PROJECT_DIR$/140-Word-Break-2.cpp" />
-        <option value="$PROJECT_DIR$/139-Word-Break.cpp" />
-        <option value="$PROJECT_DIR$/138-Copy-List-with-Random-Pointer.cpp" />
-        <option value="$PROJECT_DIR$/136-Single-Number.cpp" />
-        <option value="$PROJECT_DIR$/146-LRU-Cache.cpp" />
-        <option value="$PROJECT_DIR$/130-Surrounded-Regions.cpp" />
-        <option value="$PROJECT_DIR$/5-Longest-Palindromic-Substring.cpp" />
-        <option value="$PROJECT_DIR$/127-Word-Ladder.cpp" />
-        <option value="$PROJECT_DIR$/126-Word-Ladder-2.cpp" />
-        <option value="$PROJECT_DIR$/README" />
-        <option value="$PROJECT_DIR$/125-Valid-Palindrome.cpp" />
-        <option value="$PROJECT_DIR$/52-N-Queens-2.cpp" />
         <option value="$PROJECT_DIR$/114-Flatten-Binary-Tree-to-Linked-List.cpp" />
         <option value="$PROJECT_DIR$/224-Calculator1.cpp" />
         <option value="$PROJECT_DIR$/378-Kth-Smallest-Element-in-a-Sorted-Matrix.cpp" />
@@ -220,8 +212,24 @@
         <option value="$PROJECT_DIR$/674-Longest-Continuous-Increasing-Subsequence.cpp" />
         <option value="$PROJECT_DIR$/680-Valid-Palindrome-2.cpp" />
         <option value="$PROJECT_DIR$/778-Swim-in-Rising-Water.cpp" />
-        <option value="$PROJECT_DIR$/778-Swim-in-grid-with-rain.cpp" />
         <option value="$PROJECT_DIR$/785-Is-Graph-Bipartite.cpp" />
+        <option value="$PROJECT_DIR$/824-Goat-Latin.cpp" />
+        <option value="$PROJECT_DIR$/778-Swim-in-grid-with-rain.cpp" />
+        <option value="$PROJECT_DIR$/919-Complete-Binary-Tree-Inserter.cpp" />
+        <option value="$PROJECT_DIR$/921-Minimum-Add-to-Make-Parentheses()-Valid.cpp" />
+        <option value="$PROJECT_DIR$/940-Distinct-Subsequences-2.cpp" />
+        <option value="$PROJECT_DIR$/958-Check-Completeness-of-a-Binary-Tree.cpp" />
+        <option value="$PROJECT_DIR$/973-K-Closest-Points-to-(0,0).cpp" />
+        <option value="$PROJECT_DIR$/977-Squares-of-a-Sorted-Array.cpp" />
+        <option value="$PROJECT_DIR$/986-Interval-List-Intersections.cpp" />
+        <option value="$PROJECT_DIR$/987-Vertical-Order-Traversal-of-a-Binary-Tree.cpp" />
+        <option value="$PROJECT_DIR$/1004-Max-Consecutive-Ones-3.cpp" />
+        <option value="$PROJECT_DIR$/1004-Max-Consecutive-Ones-with-fliping-0.cpp" />
+        <option value="$PROJECT_DIR$/1026-Maximum-Difference-Between-Node-and-Ancestor.cpp" />
+        <option value="$PROJECT_DIR$/1123-Lowest-Common-Ancestor-of-Deepest-Leaves.cpp" />
+        <option value="$PROJECT_DIR$/1029-Two-City-Scheduling-interview.cpp" />
+        <option value="$PROJECT_DIR$/1574-Shortest Subarray to be Removed to Make Array Sorted.cpp" />
+        <option value="$PROJECT_DIR$/1197-Minimum-Knight-Moves.cpp" />
       </list>
     </option>
   </component>
@@ -235,7 +243,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,6 +254,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,7 +383,7 @@
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2814408" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2844933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -421,120 +429,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/154-Find-Minimum-in-Rotated-Sorted-Array-2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/140-Word-Break-2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/139-Word-Break.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/155-min-stack.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/163-Missing-Ranges.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding>
-            <element signature="e#24#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/173-Binary-Search-Tree-Iterator.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/200-number-of-islands.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/239-sliding-window-maximum.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/246-Strobogrammatic-Number.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/546 Remove Boxes.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/523-continuous-subarray-sum.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/451-Sort-Characters-By-Frequency.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/438-Find-All-Anagrams-in-a-String.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="66" lean-forward="true" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
-          <folding>
-            <element signature="e#40#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/436-Find-Right-Interval.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/435-Non-overlapping-Intervals.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/273-Integer-to-English-Words.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/301-Remove-Invalid-Parentheses.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
@@ -683,6 +577,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/540-Single-Element-Appearance-in-a-Double-Element-Array.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/621-Task-Scheduler.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/637-Average-of-Levels-in-Binary-Tree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/674-Longest-Continuous-Increasing-Subsequence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/680-Valid-Palindrome-2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/547-number-of-provinces-connected-components.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -690,59 +626,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/621-Task-Scheduler.cpp">
+    <entry file="file://$PROJECT_DIR$/824-Goat-Latin.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/637-Average-of-Levels-in-Binary-Tree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/540-Single-Element-Appearance-in-a-Double-Element-Array.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/547-number-of-provinces-connected-components.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/674-Longest-Continuous-Increasing-Subsequence.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/680-Valid-Palindrome-2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/778-Swim-in-grid-with-rain.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        <state relative-caret-position="148">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/785-Is-Graph-Bipartite.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="646">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/778-Swim-in-grid-with-rain.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/919-Complete-Binary-Tree-Inserter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/921-Minimum-Add-to-Make-Parentheses()-Valid.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/940-Distinct-Subsequences-2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/958-Check-Completeness-of-a-Binary-Tree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/973-K-Closest-Points-to-(0,0).cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/977-Squares-of-a-Sorted-Array.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/986-Interval-List-Intersections.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/314-Binary-Tree-Vertical-Order-Traversal.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="27" selection-start-line="27" selection-end-line="78" selection-end-column="2" />
+          <folding>
+            <element signature="e#568#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/987-Vertical-Order-Traversal-of-a-Binary-Tree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1004-Max-Consecutive-Ones-with-fliping-0.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1026-Maximum-Difference-Between-Node-and-Ancestor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-407">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1123-Lowest-Common-Ancestor-of-Deepest-Leaves.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1029-Two-City-Scheduling-interview.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1574-Shortest Subarray to be Removed to Make Array Sorted.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1197-Minimum-Knight-Moves.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
