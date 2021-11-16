@@ -13,7 +13,9 @@ You must solve the problem without using any built-in library for handling large
 class Solution {
 public:
     string addStrings(string num1, string num2) {
-        int i = num1.length() - 1, j = num2.length() - 1, add = 0;
+        int i = num1.length() - 1;
+        int j = num2.length() - 1;
+        int add = 0;
         string ans = "";
         while (i >= 0 || j >= 0 || add != 0) {
             int x = i >= 0 ? num1[i] - '0' : 0;

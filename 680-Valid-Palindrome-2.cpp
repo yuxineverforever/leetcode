@@ -9,7 +9,8 @@
  * A left pointer and a right pointer.
  *
  */
-class Solution {
+class Solution
+{
 public:
     bool validPalindrome(string s) {
         int r=0;
