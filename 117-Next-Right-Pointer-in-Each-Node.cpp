@@ -1,20 +1,18 @@
 /**
  * Given a binary tree
+ *
 
-struct Node {
-  int val;
-  Node *left;
-  Node *right;
-  Node *next;
-}
+ struct Node {
+   int val;
+   Node *left;
+   Node *right;
+   Node *next;
+ }
 
-Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
-
-Initially, all next pointers are set to NULL.
-
+ * Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
+ * Initially, all next pointers are set to NULL.
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii
-
  *
  *
  */

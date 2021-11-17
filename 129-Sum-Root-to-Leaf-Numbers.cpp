@@ -1,6 +1,6 @@
 /**
 Q:
- You are given the root of a binary tree containing digits from 0 to 9 only.
+You are given the root of a binary tree containing digits from 0 to 9 only.
 
 Each root-to-leaf path in the tree represents a number.
 
@@ -10,9 +10,7 @@ Return the total sum of all root-to-leaf numbers. Test cases are generated so th
 
 A leaf node is a node with no children.
 
-
 A: A simple DFS can solve everything.
-
 
 **/
 
